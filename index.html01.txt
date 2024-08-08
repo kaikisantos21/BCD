@@ -1,0 +1,29 @@
+<head>
+<meta charset="UTF-8">
+<title>Esse sao os top 10 artilheiro do corinthians </title>
+</head>
+<bidy>
+<h1>Seja bem-vindo ao meu site!</h1>
+<img src="boseli.webp" width= "15%" height="15%">
+<p>Esse é o numero 10.</p>
+<img src="augusto.png" width= "15%" height="15%">
+<p>Essse é o numero 9.</p>
+<img src="wagner love.webp" width= "15%" height="15%">
+<p>Essse é o numero 8.</p>
+<img src="rodriguinho.webp" width= "15%" height="15%">
+<p>Essse é o numero 7.</p>
+<img src="Jô_Corinthians.webp" width= "15%" height="15%">
+<p>Essse é o numero 6.</p>
+<img src="roger guedes.webp" width= "15%" height="15%">
+<p>Essse é o numero 5.</p>
+<img src="romero.webp" width= "15%" height="15%">
+<p>pepsi é o numero 4.</p>
+<img src="jadson.webp" width= "15%" height="15%">
+<p>esse é o numero 3.</p>
+<img src="mosquito.webp" width= "15%" height="15%">
+<p>mosquito é o numero 2.</p>
+<img src="guerrero.png" width= "15%" height="15%">
+<p> 1.</p>
+
+</body>
+</html>
